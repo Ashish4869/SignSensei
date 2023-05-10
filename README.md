@@ -30,3 +30,7 @@ This is the final year project, where we have developed an educational game that
 ![Download](./ScreenShots/mainmenu.png)
 ![Download](./ScreenShots/training.png)
 ![Download](./ScreenShots/challenge.png)
+
+# Play the Game!
+
+<a href="https://akk-3211.itch.io/signsensei">![Download](./ScreenShots/itch.png)</a>
