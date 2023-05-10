@@ -1,4 +1,5 @@
-cd "/c/Users/User/Desktop/Final Year/Backend (AI) - Copy/"
+path=$(pwd)
+cd $path"/Backend"
 sh ./kill.sh &
 exit
 exec bash

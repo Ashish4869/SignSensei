@@ -1,0 +1,5 @@
+__pycache__
+venv
+*.json
+.app_pid
+.server_pid
