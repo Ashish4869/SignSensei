@@ -33,4 +33,4 @@ This is the final year project, where we have developed an educational game that
 
 # Play the Game!
 
-<a href="https://akk-3211.itch.io/signsensei">![Download](./ScreenShots/itch.png)</a>
+<a href="https://akk-3211.itch.io/sign-sensei">![Download](./ScreenShots/itch.png)</a>
